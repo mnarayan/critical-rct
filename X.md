@@ -1,0 +1,2 @@
+A thread from [@JohnBaronforMD](https://x.com/JonBaronforMD/status/1744460430062268822?s=20) in response to a [critical review of evidence-based policy in criminal justice](https://x.com/MeganTStevenson/status/1742263139331088480?s=20) by Meghan Stevenson.
+  - First thoughts: Stevenson's review isn't even a criticism of RCTs, so much as an explanation for why the interventions studied with RCTs don't seem to work in this setting. I suspect this is the trouble is with the nature of interventions itself in complex social systems. 
