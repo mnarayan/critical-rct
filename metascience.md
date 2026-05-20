@@ -13,3 +13,6 @@ Counterargument to EBM+ and causal dispositions.
 - [Against evidential pluralism in pharmaceutical regulation] https://www.cambridge.org/core/journals/philosophy-of-science/article/against-evidentiary-pluralism-in-pharmaceutical-regulation/ADB4B90B3EC8A32C80C53BF4DFCB91C4 
   - My counterargument to this paper would be that we never did any severe testing of the mechanistic requirements of aducanumab. So this was a mismatch of the requirement to assess mechanism and employment of extremely weak/invalid measurements in support of it. If we had employed sound causal surrogate endpoint analysis, aducanumab would have been dead a long time ago, along with amyloid plaques as a candidate surrogate endpoint.
 - [Evaluating evidential pluralism in exposome research](https://pubmed.ncbi.nlm.nih.gov/30756196/)
+
+- Ben Recht takes on this topic and he has generally been interested at the intersection of control theory x personalization. Now individual experience vs. Cochrane reviews
+https://substack.com/home/post/p-198564861?source=queue 
